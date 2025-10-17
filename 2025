@@ -1,0 +1,37 @@
+Activity-6-Java-OOP
+This project is a simple console-based Library Management System written in Java. It allows users to
+manage books, borrow and return books, and track transactions. The system also includes an admin 
+role for
+managing users and the library catalog. Data is stored in text files so information is saved even after the program is closed.
+
+
+=========THESE ARE THE FILE/FOLDER I HAVE IN MY ACTIVITY 6=========
+| File/Folder              | Description                            |
+| ------------------------ | -------------------------------------- |
+| `src/Book.java`          | Book class for book details            |
+| `src/User.java`          | User class for system users            |
+| `src/Person.java`        | Abstract class inherited by User       |
+| `src/Transaction.java`   | Records each borrow/return transaction |
+| `src/LibrarySystem.java` | Main functions and logic of the system |
+| `Main.java`              | Entry point of the program             |
+| `books.txt`              | Stores book records                    |
+| `users.txt`              | Stores user records                    |
+| `.gitignore`             | Git ignore settings                    |
+| `README.md`              | Project guide and instructions         |
+
+[STEPS ON HOW TO RUN MY PROGRAM IN VS CODE]
+1.Open VS Code.
+2.Click File → Open Folder and open this project folder.
+3.Open Main.java.
+4.Click the Run ▶ button on top of the main method 
+
+!!iMPORTAN MESSAGE PLEASE READ SIR!!
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+| YOU HAVE TO ENTER THIS USERNAME AND PASSWOR TO OPEN THE LIBRARY MANAGEMENT SYSTEM MENU    |
+| _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+|  Username: Admin    |
+| _ _ _ _ _ _ _ _ _ _ |
+| Password: admin123  |
+| _ _ _ _ _ _ _ _ _ _ |
+SUBMITTED BY:  JUNAIBIE M. JALOP
+SUBMITTED TO : IAN KENT LAORDEN
